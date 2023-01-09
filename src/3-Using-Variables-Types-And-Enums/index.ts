@@ -1,10 +1,10 @@
 // string, number, boolean, array, undefined, null, any
 
-let firstName: string | null;
-firstName = 'Dan';
+let firstName: string | null | undefined;
+firstName = 'Ömür';
 
 let age: number;
-age = 45;
+age = 39;
 
 let hasPurchased = true;
 
@@ -22,6 +22,10 @@ if (productType === 'sports') {
 }
 
 // Using Enums
+/*
+  if we define a enum with "const" keyword it will not 
+  show the list in developer console. Only the number will be shown
+*/
 enum ProductType {
   Sports,
   HomeGoods,
