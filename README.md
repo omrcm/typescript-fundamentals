@@ -1,7 +1,3 @@
-# TypeScript Fundamentals
-
-Code samples from the TypeScript Fundamentals course on [Pluralsight.com](https://pluralsight.com). Samples for each module from the course can be found in the `src` directory.
-
 ## Running the Project
 
 1. Install Node.js LTS ([https://nodejs.org](https://nodejs.org))
